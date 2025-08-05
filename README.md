@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Stav Kdoshim</h1>
 
-<!--
-**stavkdo/stavkdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Computer Science student | 💡 Passionate about learning | 🔐 Exploring Cybersecurity & AI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+I'm a curious and dedicated Computer Science student with a strong love for **learning something new every day**.  
+I'm currently diving deeper into the exciting world of **cybersecurity**, especially where it intersects with **artificial intelligence**.
+
+---
+
+### 🧰 Tech Stack
+
+- **Languages**: Python, Java, C, SQL, Bash, Regex  
+- **Tools & Platforms**: Linux, Git, Google APIs, LLMs  
+- **Fields of Interest**: Operating Systems, Cybersecurity, AI, Automation
+
+---
+
+### 🚀 Projects
+
+- 📨 **Job Application Email Tracker**  
+  Automates job search tracking using Gmail, Gemini LLM, and Google Sheets.  
+  Extracts job info from emails and logs it to a central sheet.
+
+- ⚙️ **Assembler in C**  
+  Built a simplified assembler in C for a university project - grade: 96
+  (Currently private)
+
+---
+
+### 🌱 Currently Learning
+- Cybersecurity foundations & tools
+- Developing an HTML game
+- גקהקך
+
+
+---
+
+### 📫 Contact Me
+
+[📧 Email](mailto:stavkd04@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/stav-kdoshim/)
+
+---
+
+<sub>Thank you for visiting my profile 🙌 Feel free to reach out or connect!</sub>
