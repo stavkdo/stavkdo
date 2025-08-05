@@ -36,8 +36,6 @@ I'm currently diving deeper into the exciting world of **cybersecurity**, especi
 ### 🌱 Currently Learning
 - Cybersecurity foundations & tools
 - Developing an HTML game
-- גקהקך
-
 
 ---
 
