@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Stav Kdoshim</h1>
+<h1 align="center">Hi there! I'm Stav Kdoshim</h1>
 
 <p align="center">
 🎓 Computer Science student | 💡 Passionate about learning | 🔐 Exploring Cybersecurity & AI
