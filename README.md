@@ -30,6 +30,9 @@ I'm currently diving deeper into the exciting world of **cybersecurity**, especi
 - ⚙️ **Assembler in C**  
   Built a simplified assembler in C for a university project - grade: 96
   (Currently private)
+  
+- 🧩 **Puzzle Games, Linkedin style**   
+  Built two puzzle games in HTML, CSS and JS in the style of Linkedin puzzles 
 
 ---
 
