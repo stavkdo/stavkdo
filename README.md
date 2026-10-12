@@ -30,7 +30,7 @@ I'm currently diving deeper into the exciting world of **cybersecurity**, especi
 - 🔒 **Bleichenbacher Padding Oracle Attack Simulation**  
   Simulated a Bleichenbacher RSA padding oracle attack against a Dockerized TLS server.
 
-  - 📨 **Job Application Email Tracker**  
+- 📨 **Job Application Email Tracker**  
   Automates job search tracking using Gmail, Gemini LLM, and Google Sheets.  
   Extracts job info from emails and logs it to a central sheet.
 
